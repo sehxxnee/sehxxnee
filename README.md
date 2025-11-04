@@ -6,3 +6,5 @@ Web Developer with a growth mindset
 
 
 [Read more on my blog](https://codingince.tistory.com/)
+
+[LinkedIn](https://www.linkedin.com/in/sehxxnee/)
