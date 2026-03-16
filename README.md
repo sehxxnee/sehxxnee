@@ -1,4 +1,4 @@
 
 **👩‍💻 Sehyun Kim**  
 - Software Engineer 
-- [LinkedIn](https://www.linkedin.com/in/sehxxnee/) 
+- More on [LinkedIn](https://www.linkedin.com/in/sehxxnee/) 
