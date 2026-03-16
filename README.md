@@ -1,5 +1,4 @@
 
 **👩‍💻 Sehyun Kim**  
 - Software Engineer 
-- [LinkedIn](https://www.linkedin.com/in/sehxxnee/)
-- [Blog](https://codingince.tistory.com/)
+- [LinkedIn](https://www.linkedin.com/in/sehxxnee/) [Blog](https://codingince.tistory.com/)
