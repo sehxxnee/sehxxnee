@@ -1,4 +1,4 @@
 
 **👩‍💻 Sehyun Kim**  
-- Software Engineer 
+- Happy ^^ Software Engineer 
 - More on [LinkedIn](https://www.linkedin.com/in/sehxxnee/) 
