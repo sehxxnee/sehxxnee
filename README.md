@@ -1,4 +1,4 @@
 
 **👩‍💻 Sehyun Kim**  
-- Currently working as a SWE
+- Software Engineer
 - More on [LinkedIn](https://www.linkedin.com/in/sehxxnee/) 
