@@ -1,4 +1,6 @@
-
-**👩‍💻 Sehyun Kim**  
-- Software Engineer
-- More on [LinkedIn](https://www.linkedin.com/in/sehxxnee/) 
+<div align="center">
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sehxxnee&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/sehxxnee" width="600" height="300"
+  />
+ </a>
+</div>
